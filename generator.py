@@ -9,7 +9,7 @@ def isprime(n):
 
 def primes(n = 1):
 	while(True):
-		if !isprime(n): yield n
+		if isprime(n): yield n
 		n += 1
 
 
