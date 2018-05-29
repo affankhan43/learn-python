@@ -12,6 +12,8 @@ Whether you are an experienced programmer or not, this repo is intended for ever
 - functions
 - Prime Numbers Generator (Using Functions)
 - Fibonacci Series (Using Functions and Class)
+- Inheritance, Polymorphism
+- MVC (Model View Controller)
 
 ## Contribute
 
