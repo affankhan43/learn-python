@@ -10,6 +10,8 @@ Whether you are an experienced programmer or not, this repo is intended for ever
 - Conditions
 - Whileloops
 - functions
+- Prime Numbers Generator (Using Functions)
+- Fibonacci Series (Using Functions and Class)
 
 ## Contribute
 
