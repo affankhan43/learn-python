@@ -20,4 +20,4 @@ f = Fibonacci(5,1)
 
 for r in f.series():
 	if r > 1000: break
-	print(r,end=' ')
+	print(r,end=' ') # print fibonacci series
