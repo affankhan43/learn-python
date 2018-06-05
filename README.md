@@ -14,6 +14,7 @@ Whether you are an experienced programmer or not, this repo is intended for ever
 - Fibonacci Series (Using Functions and Class)
 - Inheritance, Polymorphism
 - MVC (Model View Controller)
+- Exceptions
 
 ## Contribute
 
